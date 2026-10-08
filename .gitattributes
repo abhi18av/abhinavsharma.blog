@@ -1,0 +1,19 @@
+# GitHub source zips (what Zenodo archives on release) honour export-ignore.
+# Goal: the archive contains ONLY the poems + metadata, not the site or other sections.
+/.github            export-ignore
+/.gitignore         export-ignore
+/.gitattributes     export-ignore
+/_quarto.yml        export-ignore
+/_templates         export-ignore
+/scripts            export-ignore
+/CNAME              export-ignore
+/README.md          export-ignore
+/about.qmd          export-ignore
+/custom.scss        export-ignore
+/index.qmd          export-ignore
+/justfile           export-ignore
+/thoughts           export-ignore
+/reading            export-ignore
+/notebook           export-ignore
+poems/index.qmd    export-ignore
+poems/_metadata.yml export-ignore

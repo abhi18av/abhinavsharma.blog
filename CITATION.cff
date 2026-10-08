@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite these poems, please use this record."
+title: "Poems"
+type: dataset
+authors:
+  - family-names: Sharma
+    given-names: Abhinav
+    orcid: "https://orcid.org/0000-0002-6402-6993"
+license: CC-BY-NC-ND-4.0
+url: "https://abhinavsharma.blog/poems/"
+repository-code: "https://github.com/abhi18av/abhinavsharma.blog"

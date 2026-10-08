@@ -19,3 +19,12 @@ new kind slug:
     sed -e "s/TITLE/{{slug}}/" -e "s/DATE/$(date +%Y-%m-%d)/" _templates/$t.qmd > "$d/index.qmd"
     [ "{{kind}}" = journal ] && sed -i '' "s/categories: \[Essay\]/categories: [Journal]/" "$d/index.qmd"; true
     echo "created $d/index.qmd"
+
+# list exactly what Zenodo would archive for a release
+archive-preview:
+    git archive HEAD | tar -t | sort
+
+# release poems to GitHub (Zenodo then archives it): just release v2026.10.1
+release tag:
+    scripts/check-poems-release.sh
+    gh release create {{tag}} --title "Poems {{tag}}" --notes "Snapshot of all published poems."

@@ -24,7 +24,7 @@ website:
       - href: about.qmd
         text: About
   page-footer:
-    center: "© Abhinav Sharma · [RSS](/index.xml)"
+    center: "© Abhinav Sharma · [RSS](/index.xml) · Poems under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)"
   open-graph: true
   twitter-card: true
 

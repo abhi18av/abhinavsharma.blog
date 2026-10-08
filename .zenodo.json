@@ -1,0 +1,17 @@
+{
+  "title": "Poems — Abhinav Sharma",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "A collection of poems by Abhinav Sharma, published at https://abhinavsharma.blog/poems/. Each release is a snapshot of all poems published up to that date.",
+  "creators": [
+    {
+      "name": "Sharma, Abhinav",
+      "orcid": "0000-0002-6402-6993",
+      "affiliation": "Stellenbosch University"
+    }
+  ],
+  "license": "cc-by-nc-nd-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["poetry", "poems"]
+}
