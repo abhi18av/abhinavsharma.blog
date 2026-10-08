@@ -21,63 +21,81 @@
 
 
 
+<div id="stanza-1" class="stanza">
 <div class="line-block">This is for You.<br>
 And you can choose,<br>
 to make of it something,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;or to make of it nothing.<br>
-<br>
-I could not choose,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;or to make of it nothing.</div>
+
+</div>
+<div id="stanza-2" class="stanza">
+<div class="line-block">I could not choose,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Oh my wonderful muse.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;not to share with you.<br>
 A smile I have,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;only for you.<br>
-<br>
-And to tell you,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;only for you.</div>
+
+</div>
+<div id="stanza-3" class="stanza">
+<div class="line-block">And to tell you,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;when you look mesmerized,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by the birds and flowers.<br>
 I too, am mesmerized,<br>
-And look at you.<br>
-<br>
-Warm, feisty and resilient,<br>
+And look at you.</div>
+
+</div>
+<div id="stanza-4" class="stanza">
+<div class="line-block">Warm, feisty and resilient,<br>
 Is the heart, trapped in my chest.<br>
 Many defeats has it seen,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;yet, it defies and dreams.<br>
-<br>
-<br>
-Your sweet smile, the golden hour of my day,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;yet, it defies and dreams.</div>
+
+</div>
+<div id="stanza-5" class="stanza-gap stanza">
+<div class="line-block">Your sweet smile, the golden hour of my day,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;oh how it shines back through the clouds,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;to make even the sun and moon shy.<br>
-<br>
-Your beautiful infinite eyes,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;to make even the sun and moon shy.</div>
+
+</div>
+<div id="stanza-6" class="stanza">
+<div class="line-block">Your beautiful infinite eyes,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;evoke a deep longing to breathe and sigh.<br>
 The silent thunder, you bring,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;with strong winds and gentle rain,<br>
 I glimpse such, sweet joy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;and fear, I shall be lost again.<br>
-<br>
-Your innocent, questioning eyes,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;and fear, I shall be lost again.</div>
+
+</div>
+<div id="stanza-7" class="stanza">
+<div class="line-block">Your innocent, questioning eyes,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;pierce through my walls and windows,<br>
 and find, to my surprise,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;something, ready to surrender,<br>
-all the secrets, I once held dear.<br>
-<br>
-And, I tell myself,<br>
+all the secrets, I once held dear.</div>
+
+</div>
+<div id="stanza-8" class="stanza">
+<div class="line-block">And, I tell myself,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I better stay away,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so you may stay,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where you are.<br>
 A friend, for good days and good byes,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;and perhaps, slowly fade away,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;with the wind and rain,<br>
-And I shall not be lost again.<br>
-<br>
-And yet, this life may simply be,<br>
+And I shall not be lost again.</div>
+
+</div>
+<div id="stanza-9" class="stanza">
+<div class="line-block">And yet, this life may simply be,<br>
 a short journey,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;between there and back,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;between “It is” and “is it”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;between “I do” and “do I”,<br>
-there and back,<br>
-<br>
-Many words you do inspire,<br>
+there and back,</div>
+
+</div>
+<div id="stanza-10" class="stanza">
+<div class="line-block">Many words you do inspire,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;if you rather not hear them<br>
 i shall lock them<br>
 in my warm chest,<br>
@@ -85,14 +103,24 @@ in my warm chest,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;where no one, can see<br>
 So you may, slowly fade away.<br>
 But I shall keep,<br>
-the many words do inspire<br>
-<br>
-With that being said,<br>
+the many words do inspire</div>
+
+</div>
+<div id="stanza-11" class="stanza">
+<div class="line-block">With that being said,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I look into your eyes,<br>
 and find something in me say,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;let it, Be.</div>
 
+</div>
 
+
+<div class="poem-footer">
+<p><strong>Reuse.</strong> © Abhinav Sharma. <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>:
+you may share this poem unmodified, or quote <em>one stanza</em>, with attribution and a link back to this page.
+Anything longer, or any adaptation, needs permission.</p>
+<p><strong>Cite.</strong> Sharma, A. “Many words you do inspire”. In <em>Poems</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.23230176">doi:10.5281/zenodo.23230176</a>.</p>
+</div>
 
  ]]></description>
   <category>Poems</category>
@@ -112,22 +140,29 @@ and find something in me say,<br>
 <p><em>Dedication of my PhD thesis, Stellenbosch University, 2026.</em></p>
 <p>And so, comes to an end, the easiest and hardest of my educational endeavours. What follows is the story of this season of my life. The life that happened to Me - <em>in verse</em>; while I was busy doing what life entails - <em>in prose</em>.</p>
 <hr>
+<div id="stanza-1" class="stanza">
 <div class="line-block">This, my beloved,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<del>is because of Us</del>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;is despite You and I.<br>
-I bow in reverence to You.<br>
-<br>
-This flesh and bone,<br>
+I bow in reverence to You.</div>
+
+</div>
+<div id="stanza-2" class="stanza">
+<div class="line-block">This flesh and bone,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;formed in the <em>womb</em> of my mother,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with the <u>essence</u> of my parents’ dreams.<br>
-I was given a Name.<br>
-<br>
-I glimpsed that Self in my youth,<br>
+I was given a Name.</div>
+
+</div>
+<div id="stanza-3" class="stanza">
+<div class="line-block">I glimpsed that Self in my youth,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;formed in the <em>womb</em> of this world,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with the <u>echoes</u> of my parents’ dreams.<br>
-The conception of Myself.<br>
-<br>
-Then I met You, my beloved midwife,<br>
+The conception of Myself.</div>
+
+</div>
+<div id="stanza-4" class="stanza">
+<div class="line-block">Then I met You, my beloved midwife,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;like a storm in spring.<br>
 Who taught Me,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;the eternal dance of endings and renewals.<br>
@@ -135,20 +170,32 @@ Who pierced my heart with an arrow,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;and liberated a thousand dreams.<br>
 Who stayed with Me,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;through the arduous labor pain,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and helped Me give birth to Myself.<br>
-<br>
-When the spring storm passed,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and helped Me give birth to Myself.</div>
+
+</div>
+<div id="stanza-5" class="stanza">
+<div class="line-block">When the spring storm passed,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;the rose garden of my heart,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witnessed its many flowers wither and fall.<br>
 The burial of every rose,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;became a <em>womb</em> for a new spring.<br>
-<br>
-I found Myself,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;became a <em>womb</em> for a new spring.</div>
+
+</div>
+<div id="stanza-6" class="stanza">
+<div class="line-block">I found Myself,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;and earned this Name.<br>
 The ever-renewing, ever-changing,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;and ever-becoming Self - अभिनव ( Abhinav )</div>
 
+</div>
 
+
+<div class="poem-footer">
+<p><strong>Reuse.</strong> © Abhinav Sharma. <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>:
+you may share this poem unmodified, or quote <em>one stanza</em>, with attribution and a link back to this page.
+Anything longer, or any adaptation, needs permission.</p>
+<p><strong>Cite.</strong> Sharma, A. “The thrice-born Self”. In <em>Poems</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.23230176">doi:10.5281/zenodo.23230176</a>.</p>
+</div>
 
  ]]></description>
   <category>Poems</category>
@@ -165,76 +212,102 @@ The ever-renewing, ever-changing,<br>
 
 
 
-<div class="line-block">~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-<br>
-Today, after a long long time,<br>
+<div class="ornament">
+<div class="line-block">~~~~~~~~~~~~~~~~~~~~~~~~~</div>
+</div>
+<div id="stanza-1" class="stanza">
+<div class="line-block">Today, after a long long time,<br>
 I’m lying down on the grass,<br>
-Looking up at the stars.<br>
-<br>
-And in this moment of peace,<br>
+Looking up at the stars.</div>
+
+</div>
+<div id="stanza-2" class="stanza">
+<div class="line-block">And in this moment of peace,<br>
 in this serenity,<br>
-I feel myself.<br>
-<br>
-I don’t feel anxious,<br>
+I feel myself.</div>
+
+</div>
+<div id="stanza-3" class="stanza">
+<div class="line-block">I don’t feel anxious,<br>
 What is,<br>
 What could be,<br>
-I feel I accept.<br>
-<br>
-This is how I imagine, being old<br>
+I feel I accept.</div>
+
+</div>
+<div id="stanza-4" class="stanza">
+<div class="line-block">This is how I imagine, being old<br>
 When wisdom is my companion,<br>
 When all the things,<br>
 Which used to frustrate me,<br>
-Bring a smile to my face<br>
-<br>
-When I can take, all the time in the world<br>
+Bring a smile to my face</div>
+
+</div>
+<div id="stanza-5" class="stanza">
+<div class="line-block">When I can take, all the time in the world<br>
 To just sit and bathe in the sun,<br>
 To take the next step,<br>
 And feel the grass beneath my feet,<br>
-This is how I imagine, being old.<br>
-<br>
-To be able to spend my time with you,<br>
+This is how I imagine, being old.</div>
+
+</div>
+<div id="stanza-6" class="stanza">
+<div class="line-block">To be able to spend my time with you,<br>
 without being in a hurry,<br>
 To just hold you,<br>
 And walk.<br>
 To just look at you,<br>
 And talk.<br>
 With all the time in the world,<br>
-And nowhere else I would go.<br>
-<br>
-I look forward to have grey hair,<br>
+And nowhere else I would go.</div>
+
+</div>
+<div id="stanza-7" class="stanza">
+<div class="line-block">I look forward to have grey hair,<br>
 And finally white.<br>
-This is how I imagine getting old.<br>
-<br>
-I would not be in a hurry to breathe fast,<br>
+This is how I imagine getting old.</div>
+
+</div>
+<div id="stanza-8" class="stanza">
+<div class="line-block">I would not be in a hurry to breathe fast,<br>
 Not be anxious, to think fast.<br>
 I would take my time,<br>
-This is how I imagine, getting old.<br>
-<br>
-Being old does not mean,<br>
+This is how I imagine, getting old.</div>
+
+</div>
+<div id="stanza-9" class="stanza">
+<div class="line-block">Being old does not mean,<br>
 I can’t live life fully,<br>
 For me it means, the real time to live life,<br>
 To enjoy everything, with the knowledge of the past,<br>
-And of the future.<br>
-<br>
-At this moment of my life,<br>
+And of the future.</div>
+
+</div>
+<div id="stanza-10" class="stanza">
+<div class="line-block">At this moment of my life,<br>
 My future is full of possibilities,<br>
 My present is full of choices,<br>
 My past is not so long<br>
-I don’t have so many experiences<br>
-<br>
-But when I’m old,<br>
+I don’t have so many experiences</div>
+
+</div>
+<div id="stanza-11" class="stanza">
+<div class="line-block">But when I’m old,<br>
 My past would be the longest,<br>
 I would know everything about this past,<br>
 I would not have so many choices in the present,<br>
-And I would know my future.<br>
-<br>
-I would recall the people who came,<br>
+And I would know my future.</div>
+
+</div>
+<div id="stanza-12" class="stanza">
+<div class="line-block">I would recall the people who came,<br>
 The people who stayed,<br>
 and those who left,<br>
 When there is no more anger in my heart,<br>
-but acceptance and forgiveness.<br>
-<br>
-The sweet moments of life,<br>
+but acceptance and forgiveness.</div>
+
+</div>
+<div id="stanza-13" class="stanza">
+<div class="line-block">The sweet moments of life,<br>
 When one knows,<br>
 All is said and done.<br>
 And is free,<br>
@@ -243,12 +316,21 @@ on and on,<br>
 I look forward to being old.<br>
 To take my time.<br>
 The best phase of life for me<br>
-This is how I imagine, getting old.<br>
-<br>
-~~~~~~~~</div>
+This is how I imagine, getting old.</div>
+
+</div>
+<div class="ornament">
+<div class="line-block">~~~~~~~~</div>
+</div>
 <p><em>24 February 2019.</em> <a href="https://www.facebook.com/abhi18av/posts/pfbid02c3V5hh2m2QsaRHz2RNPAqSHpgj6ynjxKn5VW4kEcHLYgSKs7Ak2veXjZ16Q43ycEl">Originally posted on Facebook</a>.</p>
 
 
+<div class="poem-footer">
+<p><strong>Reuse.</strong> © Abhinav Sharma. <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>:
+you may share this poem unmodified, or quote <em>one stanza</em>, with attribution and a link back to this page.
+Anything longer, or any adaptation, needs permission.</p>
+<p><strong>Cite.</strong> Sharma, A. “How I Imagine Getting Old”. In <em>Poems</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.23230176">doi:10.5281/zenodo.23230176</a>.</p>
+</div>
 
  ]]></description>
   <category>Poems</category>
@@ -268,30 +350,45 @@ This is how I imagine, getting old.<br>
 <p>I saw the pic of the last class and I guess, the last five minutes were an experience. So, I scribbled something for the one teacher who has been the most memorable one for me - Anamika Ma’am</p>
 <p>So, here goes…</p>
 <p>~~~~~~~~~~</p>
+<div id="stanza-1" class="stanza">
 <div class="line-block">For the one who has two beating hearts,<br>
 may the little ones beat stronger everyday,<br>
-and the bigger one become greater still.<br>
-<br>
-For showing faith in me,<br>
-when all the red ink spoke otherwise.<br>
-<br>
-For guiding me through trust, not commands<br>
-through subtle suggestions, not verdicts<br>
-<br>
-For making me realize that,<br>
+and the bigger one become greater still.</div>
+
+</div>
+<div id="stanza-2" class="stanza">
+<div class="line-block">For showing faith in me,<br>
+when all the red ink spoke otherwise.</div>
+
+</div>
+<div id="stanza-3" class="stanza">
+<div class="line-block">For guiding me through trust, not commands<br>
+through subtle suggestions, not verdicts</div>
+
+</div>
+<div id="stanza-4" class="stanza">
+<div class="line-block">For making me realize that,<br>
 there are those precious few,<br>
 who’d understand my unformed thoughts,<br>
-and be a joy through thick and thin.<br>
-<br>
-You know, I haven’t attended classes much,<br>
+and be a joy through thick and thin.</div>
+
+</div>
+<div id="stanza-5" class="stanza">
+<div class="line-block">You know, I haven’t attended classes much,<br>
 but God knows, I have learned your lessons.<br>
-Lessons in words and in deeds.<br>
-<br>
-For the one who has twice as many hearts.<br>
+Lessons in words and in deeds.</div>
+
+</div>
+<div id="stanza-6" class="stanza">
+<div class="line-block">For the one who has twice as many hearts.<br>
 The ambitious fool that I am,<br>
-there are still naive good parts.<br>
-<br>
-Thank you for letting me be myself.</div>
+there are still naive good parts.</div>
+
+</div>
+<div id="stanza-7" class="stanza">
+<div class="line-block">Thank you for letting me be myself.</div>
+
+</div>
 <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 <p>P.S. Ma’am if you read this, bs ab pass kr dena - MC tedha subject hai;p</p>
 <p>P.P.P Yes, everyone. Post-supplementary exam, 9 o’clock musings into the night are very elegant indeed.</p>
@@ -302,6 +399,12 @@ Thank you for letting me be myself.</div>
 <p><em>5 May 2016.</em> <a href="https://www.facebook.com/abhi18av/posts/pfbid02Los9zfq9kN6vUAPPoUdTnr9UnoufikRPUWmqRhZc8EUtUk5pQhUaQBCoTiVRCse4l">Originally posted on Facebook</a>.</p>
 
 
+<div class="poem-footer">
+<p><strong>Reuse.</strong> © Abhinav Sharma. <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>:
+you may share this poem unmodified, or quote <em>one stanza</em>, with attribution and a link back to this page.
+Anything longer, or any adaptation, needs permission.</p>
+<p><strong>Cite.</strong> Sharma, A. “For the one who has two beating hearts”. In <em>Poems</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.23230176">doi:10.5281/zenodo.23230176</a>.</p>
+</div>
 
  ]]></description>
   <category>Poems</category>
