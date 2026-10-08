@@ -1,0 +1,8 @@
+---
+title: "TITLE"
+description: "One line for the listing."
+date: DATE
+categories: [Thoughts]
+draft: true
+---
+

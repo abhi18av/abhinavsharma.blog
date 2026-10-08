@@ -6,24 +6,39 @@ project:
 
 website:
   title: "Abhinav Sharma"
-  description: "Poems, thoughts and ideas."
+  description: "Poems, reading, thoughts and a notebook."
   site-url: https://abhinavsharma.blog
   navbar:
-    right:
+    background: transparent
+    pinned: false
+    tools: []
+    left:
       - href: index.qmd
-        text: Writing
+        text: Abhinav Sharma
+    right:
+      - href: poems/index.qmd
+        text: Poems
+      - href: thoughts/index.qmd
+        text: Thoughts
+      - href: reading/index.qmd
+        text: Reading
+      - href: notebook/index.qmd
+        text: Notebook
       - href: about.qmd
         text: About
   page-footer:
-    left: "© Abhinav Sharma, 2026–"
-    right: "[RSS](/index.xml)"
+    center: "© Abhinav Sharma · [RSS](/index.xml)"
   open-graph: true
   twitter-card: true
 
 format:
   html:
-    theme: [cosmo, custom.scss]
+    theme:
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
     lang: en-GB
     toc: false
+    page-layout: article
     reference-location: margin
     citation-location: margin
+    date-format: "D MMMM YYYY"

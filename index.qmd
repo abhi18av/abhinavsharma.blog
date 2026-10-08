@@ -1,14 +1,17 @@
 ---
-title: "Writing"
-subtitle: "Poems, thoughts and ideas."
+title: "Abhinav Sharma"
+subtitle: "Poems, thoughts, things I'm reading, and a notebook."
 listing:
-  contents: posts
+  contents:
+    - "poems/*/index.qmd"
+    - "thoughts/*/index.qmd"
+    - "reading/*/index.qmd"
+    - "notebook/*/index.qmd"
   type: default
-  categories: true
+  categories: false
   sort: "date desc"
+  max-items: 15
   feed: true
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: false
 ---

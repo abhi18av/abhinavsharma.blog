@@ -1,0 +1,11 @@
+---
+title: "Notebook"
+description: "Short, half-formed notes. Not polished."
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  feed: true
+  sort-ui: false
+  filter-ui: false
+---

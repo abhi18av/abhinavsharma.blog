@@ -1,0 +1,11 @@
+---
+title: "TITLE"
+description: "Author · year"
+date: DATE
+categories: [Reading]
+draft: true
+---
+
+> A line worth keeping.
+
+What it was about, and what stayed with me.

@@ -1,11 +1,20 @@
 /*-- scss:defaults --*/
-$font-family-sans-serif: "Georgia", "Iowan Old Style", serif;
+$font-family-sans-serif: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+$font-size-root: 19px;
+$line-height-base: 1.7;
+$headings-font-weight: 500;
 
 /*-- scss:rules --*/
-// Line blocks (| lines) are how poems are written: keep them airy and left-aligned.
-.line-block {
-  font-size: 1.15rem;
-  line-height: 1.7;
-  margin: 1.5rem 0;
-}
-.quarto-title-block .quarto-title-meta { margin-top: 0.5rem; }
+// One narrow reading column everywhere.
+#quarto-content, .page-columns, main.content { max-width: 40rem; margin-left: auto; margin-right: auto; }
+.navbar { border: 0; }
+.navbar-brand, .navbar-nav .nav-link { font-size: 0.9rem; letter-spacing: 0.02em; }
+.quarto-title-block .subtitle, .listing-description, .listing-date { opacity: 0.7; }
+.quarto-listing-default .quarto-post { border-bottom: 0; padding: 0.6rem 0; }
+.quarto-post .listing-title { font-weight: 500; }
+
+// Poems: airy, left-aligned line blocks.
+.line-block { font-size: 1.1rem; line-height: 1.75; margin: 1.6rem 0; }
+
+// Reading notes: quotes stand apart.
+blockquote { border-left: 2px solid currentColor; opacity: 0.85; padding-left: 1rem; font-style: italic; }

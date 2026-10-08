@@ -1,21 +1,19 @@
 default:
     @just --list
 
-# live-reload preview
 preview:
     quarto preview
 
-# full render into _site/
 build:
     quarto render
 
-# new post: just new poem the-slug   (poem|thought|idea)
+# new post: just new poem the-slug   (poem|thought|reading|note)
 new kind slug:
     #!/usr/bin/env bash
     set -euo pipefail
-    case "{{kind}}" in poem) c=Poems;; thought) c=Thoughts;; idea) c=Ideas;; *) echo "kind must be poem|thought|idea"; exit 1;; esac
-    d="posts/$(date +%Y-%m-%d)-{{slug}}"
+    case "{{kind}}" in poem) s=poems;; thought) s=thoughts;; reading) s=reading;; note) s=notebook;; *) echo "kind: poem|thought|reading|note"; exit 1;; esac
+    d="$s/$(date +%Y-%m-%d)-{{slug}}"
     [ -e "$d" ] && { echo "$d exists"; exit 1; }
     mkdir -p "$d"
-    sed -e "s/TITLE/{{slug}}/" -e "s/^date: .*/date: $(date +%Y-%m-%d)/" -e "s/categories: \[Poems\]/categories: [$c]/" posts/_template/index.qmd > "$d/index.qmd"
+    sed -e "s/TITLE/{{slug}}/" -e "s/DATE/$(date +%Y-%m-%d)/" _templates/{{kind}}.qmd > "$d/index.qmd"
     echo "created $d/index.qmd"
