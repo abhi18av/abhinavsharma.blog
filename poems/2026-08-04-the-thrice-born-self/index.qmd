@@ -5,6 +5,8 @@ categories: [Poems]
 draft: false
 ---
 
+*Dedication of my PhD thesis, Stellenbosch University, 2026.*
+
 And so, comes to an end, the easiest and hardest of my educational endeavours. What follows is the story of this season of my life. The life that happened to Me - *in verse*; while I was busy doing what life entails - *in prose*.
 
 ---
@@ -44,5 +46,3 @@ And so, comes to an end, the easiest and hardest of my educational endeavours. W
 |     and earned this Name.
 | The ever-renewing, ever-changing,
 |     and ever-becoming Self - अभिनव ( Abhinav )
-
-*Dedication of my PhD thesis, Stellenbosch University, 2026.*
