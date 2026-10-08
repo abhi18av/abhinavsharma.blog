@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "Abhinav Sharma"
+  description: "Poems, thoughts and ideas."
+  site-url: https://abhinavsharma.blog
+  navbar:
+    right:
+      - href: index.qmd
+        text: Writing
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "© Abhinav Sharma, 2026–"
+    right: "[RSS](/index.xml)"
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    lang: en-GB
+    toc: false
+    reference-location: margin
+    citation-location: margin

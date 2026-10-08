@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Georgia", "Iowan Old Style", serif;
+
+/*-- scss:rules --*/
+// Line blocks (| lines) are how poems are written: keep them airy and left-aligned.
+.line-block {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  margin: 1.5rem 0;
+}
+.quarto-title-block .quarto-title-meta { margin-top: 0.5rem; }

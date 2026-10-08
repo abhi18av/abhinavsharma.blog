@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+I'm Abhinav Sharma. By day I work on bioinformatics and public health genomics (PhD, Stellenbosch University); here I write poems, thoughts and ideas.
+
+For the professional side, see [abhi18av.com](https://abhi18av.com).
+
+- [GitHub](https://github.com/abhi18av)
+- [ORCID](https://orcid.org/0000-0002-6402-6993)
+- Email: abhinavsharma@hey.com

@@ -1,0 +1,14 @@
+---
+title: "Writing"
+subtitle: "Poems, thoughts and ideas."
+listing:
+  contents: posts
+  type: default
+  categories: true
+  sort: "date desc"
+  feed: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
