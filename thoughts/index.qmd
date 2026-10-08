@@ -1,12 +1,13 @@
 ---
 title: "Thoughts"
-description: "Longer reflections and essays."
+description: "Essays, reflections and journal entries."
 listing:
   contents: "*/index.qmd"
   type: default
   fields: [date, title, description]
   date-format: "D MMM YYYY"
   sort: "date desc"
+  categories: true
   feed: true
   sort-ui: false
   filter-ui: false

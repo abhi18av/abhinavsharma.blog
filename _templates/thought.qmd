@@ -2,7 +2,7 @@
 title: "TITLE"
 description: "One line for the listing."
 date: DATE
-categories: [Thoughts]
+categories: [Essay]   # Essay | Journal
 draft: true
 ---
 
