@@ -19,6 +19,7 @@
       "/poems/2026-08-13-many-words-you-do-inspire/index.html",
       "/poems/2026-08-04-the-thrice-born-self/index.html",
       "/poems/2019-02-24-how-i-imagine-getting-old/index.html",
+      "/prose/2017-09-24-retelling-a-scene-from-eragon/index.html",
       "/poems/2017-06-27-are-you-an-angel/index.html",
       "/poems/2016-05-05-two-beating-hearts/index.html"
     ]
@@ -26,6 +27,12 @@
   {
     "listing": "/notebook/index.html",
     "items": []
+  },
+  {
+    "listing": "/prose/index.html",
+    "items": [
+      "/prose/2017-09-24-retelling-a-scene-from-eragon/index.html"
+    ]
   },
   {
     "listing": "/reading/index.html",
