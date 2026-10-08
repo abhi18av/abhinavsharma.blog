@@ -1,15 +1,22 @@
 [
   {
-    "objectID": "poems/index.html",
-    "href": "poems/index.html",
-    "title": "Poems",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "No matching items"
+    "text": "I’m Abhinav Sharma. By day I work on bioinformatics and public health genomics (PhD, Stellenbosch University); here I write poems, thoughts and ideas.\nFor the professional side, see abhi18av.com.\n\nGitHub\nORCID\nEmail: abhinavsharma@hey.com"
   },
   {
     "objectID": "thoughts/index.html",
     "href": "thoughts/index.html",
     "title": "Thoughts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "notebook/index.html",
+    "href": "notebook/index.html",
+    "title": "Notebook",
     "section": "",
     "text": "No matching items"
   },
@@ -21,23 +28,16 @@
     "text": "No matching items"
   },
   {
-    "objectID": "reading/index.html",
-    "href": "reading/index.html",
-    "title": "Reading",
+    "objectID": "poems/index.html",
+    "href": "poems/index.html",
+    "title": "Poems",
     "section": "",
     "text": "No matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I’m Abhinav Sharma. By day I work on bioinformatics and public health genomics (PhD, Stellenbosch University); here I write poems, thoughts and ideas.\nFor the professional side, see abhi18av.com.\n\nGitHub\nORCID\nEmail: abhinavsharma@hey.com"
-  },
-  {
-    "objectID": "notebook/index.html",
-    "href": "notebook/index.html",
-    "title": "Notebook",
+    "objectID": "reading/index.html",
+    "href": "reading/index.html",
+    "title": "Reading",
     "section": "",
     "text": "No matching items"
   }

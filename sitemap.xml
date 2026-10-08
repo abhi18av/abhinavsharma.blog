@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://abhinavsharma.blog/poems/index.html</loc>
-    <lastmod>2026-10-08T04:45:33.147Z</lastmod>
+    <loc>https://abhinavsharma.blog/about.html</loc>
+    <lastmod>2026-10-08T04:50:53.481Z</lastmod>
   </url>
   <url>
     <loc>https://abhinavsharma.blog/thoughts/index.html</loc>
-    <lastmod>2026-10-08T04:48:33.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://abhinavsharma.blog/index.html</loc>
-    <lastmod>2026-10-08T04:45:33.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://abhinavsharma.blog/reading/index.html</loc>
-    <lastmod>2026-10-08T04:45:33.147Z</lastmod>
-  </url>
-  <url>
-    <loc>https://abhinavsharma.blog/about.html</loc>
-    <lastmod>2026-10-08T04:41:21.490Z</lastmod>
+    <lastmod>2026-10-08T04:50:53.482Z</lastmod>
   </url>
   <url>
     <loc>https://abhinavsharma.blog/notebook/index.html</loc>
-    <lastmod>2026-10-08T04:45:33.147Z</lastmod>
+    <lastmod>2026-10-08T04:50:53.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abhinavsharma.blog/index.html</loc>
+    <lastmod>2026-10-08T04:50:53.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abhinavsharma.blog/poems/index.html</loc>
+    <lastmod>2026-10-08T04:50:53.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abhinavsharma.blog/reading/index.html</loc>
+    <lastmod>2026-10-08T04:50:53.482Z</lastmod>
   </url>
 </urlset>

@@ -1,10 +1,10 @@
 [
   {
-    "listing": "/poems/index.html",
+    "listing": "/thoughts/index.html",
     "items": []
   },
   {
-    "listing": "/thoughts/index.html",
+    "listing": "/notebook/index.html",
     "items": []
   },
   {
@@ -12,11 +12,11 @@
     "items": []
   },
   {
-    "listing": "/reading/index.html",
+    "listing": "/poems/index.html",
     "items": []
   },
   {
-    "listing": "/notebook/index.html",
+    "listing": "/reading/index.html",
     "items": []
   }
 ]
