@@ -4,6 +4,7 @@ subtitle: "Poems, thoughts, things I'm reading, and a notebook."
 listing:
   contents:
     - "poems/*/index.qmd"
+    - "prose/*/index.qmd"
     - "thoughts/*/index.qmd"
     - "reading/*/index.qmd"
     - "notebook/*/index.qmd"

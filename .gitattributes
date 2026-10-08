@@ -15,6 +15,7 @@
 /index.qmd          export-ignore
 /justfile           export-ignore
 /thoughts           export-ignore
+/prose              export-ignore
 /reading            export-ignore
 /notebook           export-ignore
 poems/index.qmd    export-ignore

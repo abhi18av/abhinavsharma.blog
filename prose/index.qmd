@@ -1,0 +1,13 @@
+---
+title: "Prose"
+description: "Stories, retellings and other prose."
+listing:
+  contents: "*/index.qmd"
+  type: default
+  fields: [date, title, description]
+  date-format: "D MMM YYYY"
+  sort: "date desc"
+  feed: true
+  sort-ui: false
+  filter-ui: false
+---

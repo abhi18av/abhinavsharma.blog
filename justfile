@@ -7,11 +7,11 @@ preview:
 build:
     quarto render
 
-# new post: just new poem the-slug   (poem|essay|journal|reading|note)
+# new post: just new poem the-slug   (poem|prose|essay|journal|reading|note)
 new kind slug:
     #!/usr/bin/env bash
     set -euo pipefail
-    case "{{kind}}" in poem) s=poems;; essay|journal) s=thoughts;; reading) s=reading;; note) s=notebook;; *) echo "kind: poem|essay|journal|reading|note"; exit 1;; esac
+    case "{{kind}}" in poem) s=poems;; prose) s=prose;; essay|journal) s=thoughts;; reading) s=reading;; note) s=notebook;; *) echo "kind: poem|prose|essay|journal|reading|note"; exit 1;; esac
     d="$s/$(date +%Y-%m-%d)-{{slug}}"
     [ -e "$d" ] && { echo "$d exists"; exit 1; }
     t={{kind}}; [ "$t" = essay ] || [ "$t" = journal ] && t=thought

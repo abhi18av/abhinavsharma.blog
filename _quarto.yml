@@ -16,6 +16,8 @@ website:
     right:
       - href: poems/index.qmd
         text: Poems
+      - href: prose/index.qmd
+        text: Prose
       - href: thoughts/index.qmd
         text: Thoughts
       - href: reading/index.qmd
