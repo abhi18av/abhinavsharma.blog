@@ -4,24 +4,26 @@
     "items": []
   },
   {
-    "listing": "/poems/index.html",
-    "items": [
-      "/poems/2026-08-04-the-thrice-born-self/index.html",
-      "/poems/2019-02-24-how-i-imagine-getting-old/index.html",
-      "/poems/2016-05-05-two-beating-hearts/index.html"
-    ]
+    "listing": "/notebook/index.html",
+    "items": []
   },
   {
     "listing": "/index.html",
     "items": [
+      "/poems/2026-08-13-many-words-you-do-inspire/index.html",
       "/poems/2026-08-04-the-thrice-born-self/index.html",
       "/poems/2019-02-24-how-i-imagine-getting-old/index.html",
       "/poems/2016-05-05-two-beating-hearts/index.html"
     ]
   },
   {
-    "listing": "/notebook/index.html",
-    "items": []
+    "listing": "/poems/index.html",
+    "items": [
+      "/poems/2026-08-13-many-words-you-do-inspire/index.html",
+      "/poems/2026-08-04-the-thrice-born-self/index.html",
+      "/poems/2019-02-24-how-i-imagine-getting-old/index.html",
+      "/poems/2016-05-05-two-beating-hearts/index.html"
+    ]
   },
   {
     "listing": "/reading/index.html",
