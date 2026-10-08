@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - assets/poem.js
 
 website:
   title: "Abhinav Sharma"

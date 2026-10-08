@@ -4,3 +4,11 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 You may share them in unmodified form, with attribution, for non-commercial
 purposes. Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+Additional permission (excerpts): you may quote ONE STANZA of any poem, in any
+medium, including commercial publications, with attribution to Abhinav Sharma,
+the poem's title, and a link to the original page
+(https://abhinavsharma.blog/poems/) or its Zenodo record
+(https://doi.org/10.5281/zenodo.23230176). The quoted stanza must be reproduced
+unaltered. Quoting more than one stanza, or any adaptation, requires written
+permission.

@@ -23,3 +23,15 @@ blockquote { border-left: 2px solid currentColor; opacity: 0.85; padding-left: 1
 // (often a run of empty <br>s after the "…"), so flatten them to one line.
 .quarto-listing-default .quarto-post { padding: 0.25rem 0; margin-bottom: 0.5rem; }
 .listing-description br { display: none; }
+
+// Poem stanzas: permalink on hover, highlight when targeted.
+.stanza { position: relative; margin: 1.1rem 0; }
+.stanza .line-block { margin: 0; }
+.ornament .line-block { margin: 0; opacity: 0.6; }
+.stanza-link { position: absolute; left: -1.5rem; top: 0.1rem; text-decoration: none; opacity: 0; transition: opacity .15s; }
+.stanza-link::before { content: "#"; }
+.stanza-link.copied::before { content: "✓"; }
+.stanza:hover .stanza-link, .stanza-link:focus, .stanza-link.copied { opacity: 0.55; }
+.stanza-gap { margin-top: 2.6rem; }
+.stanza:target { background: rgba(128, 128, 128, 0.12); border-radius: 4px; }
+.poem-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid rgba(128, 128, 128, 0.35); font-size: 0.8rem; opacity: 0.8; }

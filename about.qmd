@@ -9,3 +9,9 @@ For the professional side, see [abhi18av.com](https://abhi18av.com).
 - [GitHub](https://github.com/abhi18av)
 - [ORCID](https://orcid.org/0000-0002-6402-6993)
 - Email: abhinavsharma@hey.com
+
+## Reuse
+
+The poems are licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share a poem unmodified, with attribution and a link back. Beyond that licence, you may quote **one stanza** of any poem, with attribution and a link, unaltered. Copying text from a poem page adds the citation for you. To quote more, or to adapt, please get in touch.
+
+The poems are archived and citable on [Zenodo](https://doi.org/10.5281/zenodo.23230176).

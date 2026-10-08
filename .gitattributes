@@ -5,6 +5,8 @@
 /.gitattributes     export-ignore
 /_quarto.yml        export-ignore
 /_templates         export-ignore
+/_filters           export-ignore
+/assets             export-ignore
 /scripts            export-ignore
 /CNAME              export-ignore
 /README.md          export-ignore
