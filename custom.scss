@@ -18,3 +18,8 @@ $headings-font-weight: 500;
 
 // Reading notes: quotes stand apart.
 blockquote { border-left: 2px solid currentColor; opacity: 0.85; padding-left: 1rem; font-style: italic; }
+
+// Listings: compact rows. Auto-excerpts of poems keep their line breaks
+// (often a run of empty <br>s after the "…"), so flatten them to one line.
+.quarto-listing-default .quarto-post { padding: 0.25rem 0; margin-bottom: 0.5rem; }
+.listing-description br { display: none; }
