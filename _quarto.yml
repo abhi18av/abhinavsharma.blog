@@ -12,9 +12,6 @@ website:
     background: transparent
     pinned: false
     tools: []
-    left:
-      - href: index.qmd
-        text: Abhinav Sharma
     right:
       - href: poems/index.qmd
         text: Poems

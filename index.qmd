@@ -8,6 +8,8 @@ listing:
     - "reading/*/index.qmd"
     - "notebook/*/index.qmd"
   type: default
+  fields: [date, title, description]
+  date-format: "D MMM YYYY"
   categories: false
   sort: "date desc"
   max-items: 15

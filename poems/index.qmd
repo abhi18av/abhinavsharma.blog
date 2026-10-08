@@ -4,6 +4,8 @@ description: "Poems, mostly short."
 listing:
   contents: "*/index.qmd"
   type: default
+  fields: [date, title, description]
+  date-format: "D MMM YYYY"
   sort: "date desc"
   feed: true
   sort-ui: false
