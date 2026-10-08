@@ -22,10 +22,10 @@ draft: false
 | I too, am mesmerized,
 | And look at you.
 |
-| Warm, fiesty and resilient,
+| Warm, feisty and resilient,
 | Is the heart, trapped in my chest.
 | Many defeats has it seen,
-|     yet, It defies and dreams.
+|     yet, it defies and dreams.
 |
 |
 | Your sweet smile, the golden hour of my day,
@@ -67,8 +67,8 @@ draft: false
 | in my warm chest,
 |     where, you can not see
 |     where no one, can see
-| So you may, slowly fade away
-| But i shall keep,
+| So you may, slowly fade away.
+| But I shall keep,
 | the many words do inspire
 |
 | With that being said,
