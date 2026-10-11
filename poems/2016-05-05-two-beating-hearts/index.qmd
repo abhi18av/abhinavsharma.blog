@@ -1,5 +1,6 @@
 ---
 title: "For the one who has two beating hearts"
+description: "For the one who has two beating hearts, / may the little ones beat stronger everyday,"
 date: 2016-05-05
 categories: [Poems]
 draft: false

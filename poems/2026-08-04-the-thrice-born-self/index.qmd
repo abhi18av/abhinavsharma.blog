@@ -1,5 +1,6 @@
 ---
 title: "The thrice-born Self"
+description: "This, my beloved, / is because of Us,"
 date: 2026-08-04
 categories: [Poems]
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Are you an Angel?"
+description: "Of course I'm an angel! / Not a proud fallen angel,"
 date: 2017-06-27
 categories: [Poems]
 draft: false

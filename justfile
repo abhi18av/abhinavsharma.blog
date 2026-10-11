@@ -28,3 +28,7 @@ archive-preview:
 release tag:
     scripts/check-poems-release.sh
     gh release create {{tag}} --title "Poems {{tag}}" --notes "Snapshot of all published poems."
+
+# fill description (first two lines) for poems that lack one; never overwrites
+describe:
+    scripts/poem-descriptions.py

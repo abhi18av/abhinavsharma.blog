@@ -35,3 +35,6 @@ blockquote { border-left: 2px solid currentColor; opacity: 0.85; padding-left: 1
 .stanza-gap { margin-top: 2.6rem; }
 .stanza:target { background: rgba(128, 128, 128, 0.12); border-radius: 4px; }
 .poem-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid rgba(128, 128, 128, 0.35); font-size: 0.8rem; opacity: 0.8; }
+
+// Poem pages: the description (first lines) feeds the listing and social previews; don't repeat it in the header.
+body:has(.poem-footer) .quarto-title-block .description { display: none; }

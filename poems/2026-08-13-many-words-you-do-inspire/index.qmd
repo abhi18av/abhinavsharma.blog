@@ -1,5 +1,6 @@
 ---
 title: "Many words you do inspire"
+description: "This is for You. / And you can choose,"
 date: 2026-08-13
 categories: [Poems]
 draft: false
