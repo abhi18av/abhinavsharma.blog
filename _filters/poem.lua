@@ -3,6 +3,8 @@ local SITE    = "https://abhinavsharma.blog"
 local DOI     = "10.5281/zenodo.23230176"   -- Zenodo concept DOI (always the latest version)
 local LICENSE = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 local ORCID   = "https://orcid.org/0000-0002-6402-6993"
+local AUTHOR  = "Abhinav Sharma"
+local AFFIL   = "Stellenbosch University"
 
 local function esc_json(s)
   return (s:gsub('\\', '\\\\'):gsub('"', '\\"'):gsub('\n', ' '))
@@ -69,19 +71,20 @@ function Pandoc(doc)
 
   -- 2. Licence + cite footer.
   local footer = string.format([[
-<div class="poem-footer">
+<div class="poem-footer" data-author="%s" data-affiliation="%s" data-doi="%s">
 <p><strong>Reuse.</strong> © Abhinav Sharma. <a rel="license" href="%s">CC BY-NC-ND 4.0</a>:
 you may share this poem unmodified, or quote <em>one stanza</em>, with attribution and a link back to this page.
 Anything longer, or any adaptation, needs permission.</p>
 <p><strong>Cite.</strong> Sharma, A. “%s”. In <em>Poems</em>. Zenodo. <a href="https://doi.org/%s">doi:%s</a>.</p>
-</div>]], LICENSE, esc_html(title), DOI, DOI)
+</div>]], AUTHOR, AFFIL, DOI, LICENSE, esc_html(title), DOI, DOI)
   table.insert(doc.blocks, pandoc.RawBlock("html", footer))
 
   -- 3. Machine-readable attribution in <head>.
   local ld = string.format(
     '{"@context":"https://schema.org","@type":"CreativeWork","name":"%s","genre":"poetry",' ..
     '"inLanguage":"en","url":"%s","dateCreated":"%s","license":"%s",' ..
-    '"author":{"@type":"Person","name":"Abhinav Sharma","@id":"%s"},' ..
+    '"author":{"@type":"Person","name":"Abhinav Sharma","@id":"%s",' ..
+    '"affiliation":{"@type":"CollegeOrUniversity","name":"Stellenbosch University"}},' ..
     '"copyrightHolder":{"@type":"Person","name":"Abhinav Sharma","@id":"%s"},' ..
     '"isPartOf":{"@type":"CreativeWork","name":"Poems","sameAs":"https://doi.org/%s"}}',
     esc_json(title), url, esc_json(date), LICENSE, ORCID, ORCID, DOI)
